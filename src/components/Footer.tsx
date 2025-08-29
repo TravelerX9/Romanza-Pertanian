@@ -65,8 +65,12 @@ const Footer = () => {
       <div className='border-t border-white/10'>
         <div className='mx-auto max-w-[1200px] px-4 py-4 sm:px-6 lg:px-8'>
           <p className='text-xs text-white/80'>
-            © 2025 Saprotan Utama. All rights reserved. Recreate the Sample by Rza :
-            0896-9800-9000, Technology using Nextjs-Tailwind-Typescript-3D animation
+            © 2025 Saprotan Utama. All rights reserved.
+          </p>
+          <p className='m-2 w-fit items-center justify-center rounded-full border border-white p-3 text-xs text-white/80'>
+            This is only Sample and rebuild by Rza, Technology using Nextjs +
+            Tailwind + Typescript + 3D animation. Contact me if need more :
+            0896-9800-9000
           </p>
         </div>
       </div>
