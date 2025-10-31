@@ -8,7 +8,7 @@ const PRODUCTS = [
     img: '/images/pupuk1.webp',
     alt: 'Fertiphos',
     title: 'Fertiphos',
-    desc: 'Pupuk Phosphate yang berasal dari bahan alami dan dilengkapi dengan unsur makro dan mikro',
+    desc: 'Pupuk Phosphate yang berasal dari bahan alami dan dilengkapi dengan unsur makro dan mikro.',
   },
   {
     img: '/images/pupuk2.webp',
