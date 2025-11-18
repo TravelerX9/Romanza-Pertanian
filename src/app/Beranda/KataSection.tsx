@@ -16,7 +16,7 @@ const TESTIMONI = [
     job: 'Petani Mangga',
     location: 'Sumedang',
     quote:
-      'Setelah dilakukan pemupukan 2 bulan sebelumnya, kemudian saya menggunakan POSTON dikocor dengan konsentrasi 5 ml/liter. Dalam jangka waktu 2 bulan tanaman mangga saya sudah berbunga. Dibandingkan dengan produk lain efek dari POSTON lebih cepat. Saya menyarankan kepada semua petani mangga agar memakai POSTON',
+      'Setelah dilakukan pemupukan 2 bulan sebelumnya, kemudian saya menggunakan POSTON dikocor dengan konsentrasi 5 ml/liter. Dalam jangka waktu 2 bulan tanaman mangga saya sudah berbunga. Dibandingkan dengan produk lain efek dari POSTON lebih cepat. Saya menyarankan kepada semua petani mangga agar memakai POSTON.',
     highlight: ['POSTON'],
   },
   {
