@@ -23,7 +23,7 @@ const AlasanSection = () => (
             Formula Khusus
           </h3>
           <p className='mt-2 text-base text-gray-600'>
-            Pupuk Pak Tani dirancang dengan formula khusus, dimana kandungan
+            Pupuk Pak Tani dirancang dengan formula khusus. dimana kandungan
             disesuaikan dengan unsur hara yang dibutuhkan masing-masing jenis
             tanaman budidaya.
           </p>
