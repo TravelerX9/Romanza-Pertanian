@@ -6,7 +6,7 @@ import React from 'react';
 const AlasanSection = () => (
   <Section className='bg-white'>
     <div className='mx-auto mt-10 h-470 max-w-[1600px] px-4 py-10 md:h-220 md:py-5 lg:h-180 lg:px-20'>
-      <Title>Alasan Memilih Saprotan Utama?.</Title>
+      <Title>Alasan Memilih Saprotan Utama?</Title>
       <div className='mt-10 grid grid-cols-1 gap-6 md:grid-cols-3'>
         {/* Card 1: Formula Khusus */}
         <Card className='relative top-[0%] px-5 pt-5 pb-6 text-center md:top-[10%] lg:top-[10%]'>
