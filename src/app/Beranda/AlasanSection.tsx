@@ -40,7 +40,7 @@ const AlasanSection = () => (
             </div>
           </div>
           <h3 className='mt-6 text-xl font-bold text-[#1a3772]'>
-            Layanan Pak Tani
+            Layanan Pak Tani.
           </h3>
           <p className='mt-2 text-base text-gray-600'>
             Sejak 1978, Saprotan Utama selalu mengutamakan kepuasan pelanggan
