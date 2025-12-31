@@ -13,7 +13,7 @@ const Footer = () => {
             <p className='mt-3 text-sm leading-relaxed text-white/90'>
               Produk Pak Tani, selalu mengutamakan kualitas terbaik. Kami
               memiliki produk inovatif dengan merk internasional yang pastinya
-              akan memenuhi setiap kebutuhan Anda.
+              akan memenuhi setiap kebutuhan Anda
             </p>
           </div>
 
