@@ -16,7 +16,7 @@ const STORIES = [
     date: 'Desember 14, 2022',
     title: 'Menanam Mangga Tabulampot, Ini Caranya!',
     excerpt:
-      'Banyak jenis mangga yang dapat ditanam dalam tabulampot contohnya ialah arum manis, manalagi, dan mangga apel. Semua jenis mangga ini bisa memberikan hasil yang bagus meski ditanam dalam pot..',
+      'Banyak jenis mangga yang dapat ditanam dalam tabulampot contohnya ialah arum manis, manalagi, dan mangga apel. Semua jenis mangga ini bisa memberikan hasil yang bagus meski ditanam dalam pot...',
     link: '#',
   },
   {
