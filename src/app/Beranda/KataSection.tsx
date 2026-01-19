@@ -25,7 +25,7 @@ const TESTIMONI = [
     job: 'Petani Kentang',
     location: 'Dieng',
     quote:
-      'Saya sudah menanam kentang 10 tahun, alhamdulilah, ketika memakai produk Saprotan Utama, hasil panen saya meningkat drastis dibanding sebelumnya. Selain itu, memakai produk Saprotan Utama juga memangkas biaya sekitar 25% dari biasanya!.',
+      'Saya sudah menanam kentang 10 tahun, alhamdulilah, ketika memakai produk Saprotan Utama, hasil panen saya meningkat drastis dibanding sebelumnya. Selain itu, memakai produk Saprotan Utama juga memangkas biaya sekitar 25% dari biasanya!',
   },
 ];
 
