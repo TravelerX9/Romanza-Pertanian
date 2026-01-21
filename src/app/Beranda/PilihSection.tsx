@@ -95,7 +95,7 @@ const PilihSection = () => {
       <div className='mx-auto max-w-[1380px] px-4 py-12 sm:px-6 sm:py-14 lg:px-8'>
         <div className='flex items-center'>
           <button
-            aria-label='Sebelumnya'
+            aria-label='Sebelumnya.'
             onClick={() => setStart(Math.max(0, start - perPage))}
             disabled={!canPrev}
             className='mr-2 flex h-10 w-10 items-center justify-center rounded-full border border-gray-300 bg-white shadow transition hover:bg-blue-500 disabled:opacity-40'
