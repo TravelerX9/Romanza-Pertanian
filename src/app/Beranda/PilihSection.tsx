@@ -184,7 +184,7 @@ const PilihSection = () => {
             type='button'
             className='rounded-lg bg-[#5fc05f] px-8 py-3 text-sm font-semibold shadow transition-all hover:bg-[#4ea94e]'
           >
-            Lihat Semua Tanaman
+            Lihat Semua Tanaman.
           </button>
         </div>
       </div>
