@@ -34,7 +34,7 @@ const HeroSection = () => (
               {desc}
             </p>
             <Button className='mt-6' href='#produk'>
-              Lihat Produk.
+              Lihat Produk
             </Button>
           </div>
         );
